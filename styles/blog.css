@@ -1,0 +1,13 @@
+div {
+    background-color: burlywood;
+    padding: 15px;
+}
+
+button {
+    background-color: blue;
+    color: whitesmoke;
+    height: 30px;
+    border: none;
+    width: 100px;
+    border-radius: 8px;
+}
